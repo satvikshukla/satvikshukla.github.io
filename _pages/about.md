@@ -1,11 +1,50 @@
 ---
 layout: page
 title: About
-image: '/images/pages/about.jpeg'
 ---
 
-You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.
+A little about my skill set and experience.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+---
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+### Skills
+
+* Languages - Python, Java, JavaScript, Rust, R, SQL, C++, MATLAB
+* Frameworks - TensorFlow, pyTorch, scikit-learn, Spring, Flask, Falcon, React
+* Tools - Spark, Azure, AWS, Docker, Unix/Linux, Latex
+
+---
+
+### Education
+
+Bachelor of Science - Computer Science (University of Washington, Seattle)
+
+---
+
+### Experience
+
+* Teaching Assistant - Allen School, University of Washington
+    - Graudate Deep Learning (CSE 599G1)
+    - Foundations of Computing II (CSE 312)
+* Software Development Engineer Intern - Hulu
+* Research Assistant - metalab (at) Harvard
+* Deep Learning Research Assistant - Allen School, University of Washington
+* Mathematics Tutor - Engineering Academic Center, University of Washington
+* Teaching Assistant - iSchool, University of Washington
+* Research Intern - Berkman Klein Center
+* Research Assistant - Newbook Digital Texts, University of Washington
+* Logistics Head - def hacks()
+* Communications Coordinator - Rick's Cafe
+* Intern - Triumph Mediatech Pvt. Ltd.
+* Volunteer - Elizabeth Gregory Home
+
+---
+
+### Projects
+
+* [Data Constrained classification using Residual Networks](http://bit.ly/satvik-dccrn)
+* [The Airbnb Revolution](http://bit.ly/satvik-ar)
+* [Code, Comments, and Issues](https://github.com/satvikshukla/swehacks)
+* [Art and R](https://public.tableau.com/views/artandR/RGBColorSpace)
+* [ Education and Millennium Development Goals](https://bchong.shinyapps.io/mdg_education/)
+
